@@ -1,0 +1,3 @@
+[submodule "qwik-fh"]
+	path = qwik-fh
+	url = git@github.com:Dounder/qwik-fh.git
